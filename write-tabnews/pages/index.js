@@ -3,6 +3,7 @@ function Home () {
          coringa sentence: eu gosto de polvora, dinamite e gasolina,
          essas coisas são baratas!
         . why you so serius, lets put in smile your face!  </h1>
+    return <h1>EU sou o Caminho, a verdade e a vida.</h1>
 }
 
 export default Home; 
